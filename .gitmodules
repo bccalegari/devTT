@@ -1,12 +1,12 @@
 [submodule "devTT-Api"]
 	path = devTT-Api
 	url = https://github.com/bccalegari/devTT-Api
+	branch = main
 [submodule "devTT-MailSender-Api"]
-	path = devTT-MailSender-Api
-	url = https://github.com/bccalegari/devTT-MailSender-Api
+	path = devTTMailSender-Api
+	url = https://github.com/bccalegari/devTTMailSender-Api
+	branch = main
 [submodule "devTT-WebApp"]
 	path = devTT-WebApp
 	url = https://github.com/bccalegari/devTT-WebApp
-[submodule "devTTMailSender-Api"]
-	path = devTTMailSender-Api
-	url = https://github.com/bccalegari/devTTMailSender-Api
+	branch = main
